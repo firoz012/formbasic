@@ -1,0 +1,39 @@
+.form-control{
+	background-color: transparent;
+}
+.bg-color{
+	background-color: #1AB188;
+	border-color:#1AB188;
+	color: white; 
+
+}
+.btn-success {
+    color: #fff;
+   background-color: #1AB188;
+	border-color:#1AB188;
+}
+.bg-gray{
+	background-color: #435259;
+	border-color: #435259;
+	color: #6B7A81;
+	952B62
+	14107D
+
+}
+h1{
+	padding: 20px 0px;
+	color: white;
+}
+.card-header {
+ background-color:#A255A5;
+ padding: 50px;
+}
+
+
+::placeholder{
+	color: white !important;
+}
+.bg-dark {
+   
+    border-radius: 5px!important;
+}
